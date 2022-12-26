@@ -1,0 +1,8 @@
+E:\The Prime Number\The Prime Number\bin\Debug\The Prime Number.exe.config
+E:\The Prime Number\The Prime Number\bin\Debug\The Prime Number.exe
+E:\The Prime Number\The Prime Number\bin\Debug\The Prime Number.pdb
+E:\The Prime Number\The Prime Number\obj\Debug\The Prime Number.csproj.AssemblyReference.cache
+E:\The Prime Number\The Prime Number\obj\Debug\The Prime Number.csproj.SuggestedBindingRedirects.cache
+E:\The Prime Number\The Prime Number\obj\Debug\The Prime Number.csproj.CoreCompileInputs.cache
+E:\The Prime Number\The Prime Number\obj\Debug\The Prime Number.exe
+E:\The Prime Number\The Prime Number\obj\Debug\The Prime Number.pdb
