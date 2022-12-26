@@ -4,46 +4,46 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace The_Prime_Number
+namespace The_Perfect_Number
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Please Enter The First Number:");
+            Console.WriteLine("Please Enter The frist Number:");
+
             int num = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Please Enter The Last Number:");
+            Console.WriteLine("Please Enter The last Number:");
 
             int num1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("The Perfect number is :");
 
-            Console.WriteLine("The Prime Number Is:");
-            for (int i = num; i <= num1; i++)
+            for (int i = num; i < num1; i++)
             {
-                bool x = true;
-                if (i == 1)
+                double y = findfactor(i);
+                if (i == y)
                 {
-                    x = false;
-
+                    Console.WriteLine("\t" + i);
                 }
-                else
+            }
+
+        }
+        public static double findfactor(int x)
+        {
+            double z = 0;
+            for (int i = 1; i < x; i++)
+            {
+                if (x % i == 0)
                 {
-                    for (int y = 2; y < i; y++)
-                    {
-                        if (i % y == 0)
-                        {
-                            x = false;
-                            break;
-                        }
-                    }
-                    if (x)
-                    {
-                        Console.Write("\t" + i);
-                    }
-                    
+                    z = z + i;
                 }
 
             }
+
+            return z;
+
         }
     }
 }
