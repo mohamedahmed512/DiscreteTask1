@@ -1,0 +1,2 @@
+E:\linear project\second_try_of_linear\second_try_of_linear\obj\Debug\second_try_of_linear.csproj.AssemblyReference.cache
+E:\linear project\second_try_of_linear\second_try_of_linear\obj\Debug\second_try_of_linear.csproj.CoreCompileInputs.cache

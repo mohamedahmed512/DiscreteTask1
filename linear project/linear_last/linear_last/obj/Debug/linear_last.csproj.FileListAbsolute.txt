@@ -1,0 +1,7 @@
+E:\linear project\linear_last\linear_last\bin\Debug\linear_last.exe.config
+E:\linear project\linear_last\linear_last\bin\Debug\linear_last.exe
+E:\linear project\linear_last\linear_last\bin\Debug\linear_last.pdb
+E:\linear project\linear_last\linear_last\obj\Debug\linear_last.csproj.AssemblyReference.cache
+E:\linear project\linear_last\linear_last\obj\Debug\linear_last.csproj.CoreCompileInputs.cache
+E:\linear project\linear_last\linear_last\obj\Debug\linear_last.exe
+E:\linear project\linear_last\linear_last\obj\Debug\linear_last.pdb

@@ -1,0 +1,14 @@
+E:\os projects\linear project\linear_project\linear_project\bin\Debug\linear_project.exe.config
+E:\os projects\linear project\linear_project\linear_project\bin\Debug\linear_project.exe
+E:\os projects\linear project\linear_project\linear_project\bin\Debug\linear_project.pdb
+E:\os projects\linear project\linear_project\linear_project\obj\Debug\linear_project.csproj.AssemblyReference.cache
+E:\os projects\linear project\linear_project\linear_project\obj\Debug\linear_project.csproj.CoreCompileInputs.cache
+E:\os projects\linear project\linear_project\linear_project\obj\Debug\linear_project.exe
+E:\os projects\linear project\linear_project\linear_project\obj\Debug\linear_project.pdb
+E:\linear project\linear_project\linear_project\bin\Debug\linear_project.exe.config
+E:\linear project\linear_project\linear_project\bin\Debug\linear_project.exe
+E:\linear project\linear_project\linear_project\bin\Debug\linear_project.pdb
+E:\linear project\linear_project\linear_project\obj\Debug\linear_project.csproj.AssemblyReference.cache
+E:\linear project\linear_project\linear_project\obj\Debug\linear_project.csproj.CoreCompileInputs.cache
+E:\linear project\linear_project\linear_project\obj\Debug\linear_project.exe
+E:\linear project\linear_project\linear_project\obj\Debug\linear_project.pdb
